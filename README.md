@@ -49,7 +49,7 @@
 - Currently the project can only work on local due to the complicate system of databases
 - Python is installed
 ### Get source code
-- use `git clone https://github.com/TaiZuon/social_network.git`
+- use `git clone https://github.com/Nguyen-Quoc-Vuong/social_network.git`
 ### Set up database
 - install PostgreSQL, MongoDB, Redis
 - Config these database following the [social_network\settings.py](https://github.com/Nguyen-Quoc-Vuong/social_network/blob/main/social_network/settings.py) file
